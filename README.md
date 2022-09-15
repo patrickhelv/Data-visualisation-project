@@ -53,7 +53,7 @@ When we apply t-sne to the optidigits dataset we can clearly see the different c
 
 ## Made with
 
-https://github.com/StefanTomic-NTNU
+- https://github.com/StefanTomic-NTNU
 
 
 
