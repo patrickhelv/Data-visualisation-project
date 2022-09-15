@@ -51,6 +51,9 @@ Applying Isomap to Optdigits still does not result in something visible.
 
 When we apply t-sne to the optidigits dataset we can clearly see the different clusters. 
 
+## Made with
+
+https://github.com/StefanTomic-NTNU
 
 
 
